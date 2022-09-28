@@ -213,7 +213,11 @@ const khoiTao = async () => {
 		<tr>
 		<td colspan="3" style="text-align: left; padding-left: 5px; font-size: 18px;">
                         <span style="">Gửi Tiết kiệm bưu điện - Lãi suất cao - An tâm, an toàn tiền gửi.</span>
-                    </td></tr>
+                    </td>
+		<td colspan="3" style="text-align: left; padding-left: 5px; font-size: 18px;">
+                        <span style="">Truy cập ngay: https://www.buudienhuyenmelinh.vn/</span>
+        </td>
+		</tr>
             </table>
         </div>
     </section>
