@@ -70,7 +70,7 @@ const khoiTao = async () => {
         </div>
         <div class="col-8" style="padding-top: 5px;font-size: 17px;">
             <div style="text-align: center">
-                <b>BƯU ĐIỆN HUYỆN MÊ LINH</b><br/><i>Trụ sở chính: Khu hành chính Huyện Mê Linh-Đại Thịnh-Mê Linh-Hà Nội</i><br/><b>VHX TIẾN THỊNH: NGUYỄN THỊ THANH HẢI</b>
+                <b>BƯU ĐIỆN HUYỆN MÊ LINH</b><br/><i>Trụ sở chính: Khu hành chính Huyện Mê Linh-Đại Thịnh-Mê Linh-Hà Nội</i><br/><b>VHX TIẾN THẮNG: NGUYỄN THỊ NGÂN</b>
             </div>
             <div style="text-align: center;padding-top: 2px;font-size: 10px;">
                 (từ <span id="start_date">20/04/2019</span> đến <span id="end_date">20/04/2019</span>)<br>
